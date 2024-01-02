@@ -15,7 +15,6 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
                     <div className="flex items-center">
                         <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
                         <p className=" font-extrabold ml-1 text-2xl">Rxz</p>
-                        <Link href="/">
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
                 </div>
