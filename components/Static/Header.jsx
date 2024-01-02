@@ -13,9 +13,8 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <Link href="https://rxz-bot.vercel.app">
-                          <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
-                        </Link>
+                        <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
+                        <Link href="/">
                         <p className=" font-extrabold ml-1 text-2xl">Rxz</p>
                         <Link href="/">
                     </div>
