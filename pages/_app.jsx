@@ -44,7 +44,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=1191154780287008858&permissions=8&scope=bot+applications.commands",
+      href: "https://rxz-bot.vercel.app/invite",
     },
        {
       link: true,
