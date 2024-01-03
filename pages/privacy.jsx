@@ -7,7 +7,7 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use the Rxz bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(ADMINISTRATOR)</a></p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">Rxz</a> when using certain commands from the bot commands.</p>
+        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/1191154780287008858/vote">Rxz</a> when using certain commands from the bot commands.</p>
         <div className="py-3"></div>
         <p>⊳ Every user can use the Rxz however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
