@@ -48,7 +48,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href="https://rxz-bot.vercel.app/invite" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/api/oauth2/authorize?client_id=1191154780287008858&permissions=8&scope=bot+applications.commands&redirect_uri=https%3A%2F%2Frxz-bot.vercel.app%2Fthanks&response_type=code" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
