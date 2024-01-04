@@ -166,7 +166,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="https://rxz-bot.vercel.app/invite">
+                        <Link href="https://discord.com/api/oauth2/authorize?client_id=1191154780287008858&permissions=8&scope=bot+applications.commands&redirect_uri=https%3A%2F%2Frxz-bot.vercel.app%2Fthanks&response_type=code">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Invite
                             </a>
