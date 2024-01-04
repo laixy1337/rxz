@@ -42,15 +42,15 @@ export default function AwardApp({ Component, pageProps }) {
     {
       link: true,
       name: "Add Bot",
-      icon: "fal fa-robot",
-      activeIcon: "fab fa-robot",
+      icon: "fa fa-plus",
+      activeIcon: "fa fa-plus",
       href: "https://discord.com/api/oauth2/authorize?client_id=1191154780287008858&permissions=8&scope=bot+applications.commands&redirect_uri=https%3A%2F%2Frxz-bot.vercel.app%2Fthanks&response_type=code",
     },
        {
       link: true,
       name: "Vote",
-      icon: "fa fa-plus",
-      activeIcon: "fa fa-plus",
+      icon: "fal fa-robot",
+      activeIcon: "fab fa-robot",
       href: "https://top.gg/bot/1191154780287008858/vote",
     }
   ]
