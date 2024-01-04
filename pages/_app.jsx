@@ -52,13 +52,6 @@ export default function AwardApp({ Component, pageProps }) {
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
       href: "https://top.gg/bot/1191154780287008858/vote",
-    },
-    {
-      link: true,
-      name: "Partners",
-      icon: "fal fa-handshake",
-      activeIcon: "fa fa-handshake",
-      href: "/partners",
     }
   ]
 
@@ -71,7 +64,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Rxz
+          Rxz1
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
