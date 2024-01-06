@@ -10,7 +10,7 @@ class MyDocument extends Document {
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
-            name="description"
+            name="Rxz | Discord Bot"
             content="How about increasing the security level of your server to the highest level? Time to use Rxz!"
           />
           <meta name="twitter:card" content="summary" />
