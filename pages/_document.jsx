@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="How about increasing the security level of your server to the highest level? Time to use Rxz!"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@Rxz | Discord Bot" />
+          <meta name="twitter:site" content="@Rxz" />
           <meta name="twitter:creator" content="@Rxz" />
           <meta property="og:url" content="https://rxz-bot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Rxz" />
+          <meta property="og:title" content="Rxz | Discord Bot" />
           <link
             rel="icon"
             href="/img/logo2.png"
