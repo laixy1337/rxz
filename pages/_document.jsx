@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="How about increasing the security level of your server to the highest level? Time to use Rxz!"
           />
           <meta property="og:image" content="/img/logo.png" />
-          <meta property="og:image:alt" content="Rxz | Discord Bot" />
+          <meta property="og:image:alt" content="Rxz" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Rxz"
+            content="Rxz | Discord Bot"
           />
           <meta name="theme-color" content="#FFFFFF" />
           <link rel="icon" href="/img/logo.png" type="image/x-icon" />
