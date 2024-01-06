@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about increasing the security level of your server to the highest level?"
+            content="How about increasing the security level of your server to the highest level? Time to use Rxz!"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@Rxz" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="How about increasing the security level of your server to the highest level? Time to use Rxz!"
           />
           <meta property="og:image" content="/img/logo.png" />
           <meta property="og:image:alt" content="Rxz" />
