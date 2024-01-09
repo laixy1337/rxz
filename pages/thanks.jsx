@@ -2,6 +2,7 @@ export default function Thanks() {
   return (
     <div>
       <img width="500" src="/img/bck.png" />
+	<div className="flex w-full justify-center">
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Thanks!
         </p>
