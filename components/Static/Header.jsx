@@ -76,7 +76,7 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <Link href="https://discord.com/api/oauth2/authorize?client_id=1191154780287008858&permissions=8&scope=bot+applications.commands&redirect_uri=https%3A%2F%2Frxz-bot.vercel.app%2Fthanks&response_type=code">
+                            <Link href="https://rxz-bot.vercel.app">
                             <img src="/img/logo2.png" 
                                 className={`
                                     rounded-full 
