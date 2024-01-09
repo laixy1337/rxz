@@ -10,6 +10,8 @@ export default function Thanks() {
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Thanks for adding Rxz!
 	  </p>
+	</div>
+	</div>
     </div>
   );
 }
