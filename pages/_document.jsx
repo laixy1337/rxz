@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@Rxz" />
           <meta property="og:url" content="https://rxz-bot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Rxz | Discord Bot" />
+          <meta property="og:title" content="Rxz" />
           <link
             rel="icon"
             href="/img/logo2.png"
